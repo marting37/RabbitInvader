@@ -1,0 +1,10 @@
+{
+  "name": "bjs-starter-js",
+  "version": "2.0.0",
+  "devDependencies": {
+    "browser-sync": "^2.23.6"
+  },
+  "scripts": {
+    "start": "browser-sync start --server --files **/* --startPath index.html"
+  }
+}
